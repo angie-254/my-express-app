@@ -1,2 +1,2 @@
-This repository contains my practise with express framework.
-I added some apis and controllers to test out my express skills.
+This repository contains my practise with Express framework.
+I added some apis and controllers to test out my Express skills.
